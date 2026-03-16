@@ -93,7 +93,7 @@ h1 {
   font-size: 50px;
 }
 .vester {
-  background-image: url("../img/barer-Vesterbro/cocktail.webp");
+  background-image: url("../img/bydele/cocktail.webp");
   background-size: cover;
   background-position: center;
   min-height: 100vh;
@@ -112,7 +112,7 @@ h1 {
 }
 
 .indreklub {
-  background-image: url("../img/bydele/Klubbillede\ indre.jpg");
+  background-image: url("../img/bydele/Klubbillede\ indre.webp");
   background-size: cover;
   background-position: center;
   min-height: 100vh;
