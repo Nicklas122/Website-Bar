@@ -6,7 +6,6 @@ text {
 nav a {
   display: grid;
   justify-self: center;
-  text-align: center;
   text-decoration: none;
   color: white;
   background-color: black;
